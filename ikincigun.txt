@@ -2,3 +2,4 @@ Git Github Ikinci Gun ilk deneme
 Git Github Ikinci Gun ikinci deneme
 Git Github Ikinci Gun ucuncu deneme
 Git Github Ikinci Gun SUMEYYE BRANCH'I deneme
+Git Github Ikinci Gun MASTER BRANCH'I deneme
